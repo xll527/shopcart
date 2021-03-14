@@ -1,4 +1,6 @@
 # shopcart
+
+下载前注意：下载
 IDEA和Mysql,模拟购物
 
 
